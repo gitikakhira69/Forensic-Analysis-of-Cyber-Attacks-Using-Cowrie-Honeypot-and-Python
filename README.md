@@ -46,10 +46,7 @@ This setup provides a practical lab for studying attack patterns, understanding 
 
 **Directory Structure**
 ```
-home/
-├─ cowrie/
-│ └─ var/log/cowrie/cowrie.json
-└─ forensic_project/
+forensic_project/
 ├─ main.py # Entry point; orchestrates everything
 ├─ log_parser.py # Parses logs and creates DataFrames
 ├─ real_time_monitor.py # Real-time monitoring and alerts
