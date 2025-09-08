@@ -1,11 +1,3 @@
-# ⚠️ Important Notice
-
-This project is **for educational and personal use only**.  
-The code, scripts, and data in this repository **cannot be used, copied, distributed, or deployed publicly** without explicit permission from the author (Gitika Khira).  
-
-By accessing this repository, you agree to respect the author's intellectual property rights. Unauthorized use may result in legal consequences.
-
-
 # Forensic Analysis of Cyber Attacks Using Cowrie Honeypot and Python
 
 ## Project Overview
@@ -116,3 +108,9 @@ python main.py
 - GeoLite2
 - Python libraries: pandas, matplotlib, folium, scikit-learn, reportlab
 - Research papers/articles on honeypots and cybersecurity forensics
+
+
+---
+
+© 2025 Gitika Khira. All rights reserved.  
+This project may not be copied, modified, distributed, or used publicly without explicit permission.
